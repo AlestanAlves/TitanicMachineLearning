@@ -13,3 +13,9 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 
 ![titanic](https://user-images.githubusercontent.com/48387196/67313046-b21eff80-f4d8-11e9-9622-56d74ea05ace.gif)
+
+## Pontuações dos modelos 
+
+- [x] 0,76
+- [x] 0,77
+- [x] 0,78
