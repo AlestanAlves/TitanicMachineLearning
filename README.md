@@ -19,3 +19,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 - [x] 0,76
 - [x] 0,77
 - [x] 0,78
+
+## Meta
+
+- [ ] 0,80
