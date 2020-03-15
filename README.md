@@ -22,5 +22,5 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 ## Meta
 
-- [ ] 0,80
+- [x] 0,80
 
